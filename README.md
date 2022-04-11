@@ -1,6 +1,6 @@
 # SIGMOID-ACTIVATION-FUNCTION
 ## Aim:
-  To develop a python code to create a simple feed-forward or perception neural networks  to employ the Sigmoid activation function. This neuron is to trained such that it can predict the correct output value when provided with a new set of input data.
+  To develop a python code that creates a simple feed-forward neural networks or perception with the Sigmoid activation function. The neuron has to be trained such that it can predict the correct output value when provided with a new set of input data.
   
  ![image](https://user-images.githubusercontent.com/93023609/162692440-f59e7ad2-0414-4ddb-8640-fede7a0655f2.png)
 
@@ -31,4 +31,4 @@ RegisterNumber:
 
 
 ## Result:
-  Thus developed a python code to create a simple feed-forward or perception neural networks to employ the Sigmoid activation function. This neuron was trained such that it can predict the correct output value when provided with a new set of input data.
+  Thus created a perception to employ the Sigmoid activation function. This neuron was successfully trained to predict the correct output value, when provided with a new set of input data.
